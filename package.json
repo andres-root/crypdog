@@ -1,0 +1,19 @@
+{
+  "name": "crypdog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-root/crypdog.git"
+  },
+  "author": "andres lujan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/andres-root/crypdog/issues"
+  },
+  "homepage": "https://github.com/andres-root/crypdog#readme"
+}
